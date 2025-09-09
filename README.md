@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://datasciencereview.com/wp-content/uploads/2019/12/Data-Science-ROI-7-Ways-to-Boost-It-scaled.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunaljoshi12&label=Profile%20views&color=0e75b6&style=flat" alt="kunaljoshi12" /> </p>
 
-- 💬 Ask me about **Data Science |  Learning**
+- 💬 Ask me about **Data Science | Machine Learning**
 
 - 📫 How to reach me **mr.kunaljoshi12@gmail.com**
 
