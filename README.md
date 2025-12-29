@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Joshi</h1>
 <h3 align="center">Automation Tester | QA Engineer | Python & Java</h3>
 
-
+<img align="right" alt="Automation Testing" width="400" src="https://testgrid.io/blog/wp-content/uploads/2024/03/automation-testing-tools.jpg">
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kunaljoshi12&label=Profile%20views&color=0e75b6&style=flat" alt="kunaljoshi12" />
 </p>
