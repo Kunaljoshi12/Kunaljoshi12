@@ -2,7 +2,7 @@
 <h3 align="center">Automation Tester | QA Engineer | Python & Java</h3>
 
 <p align="center">
-  <img src="automation-testing-tools.jpg" alt="Top Automation Testing Tools" width="100%" />
+  <img src="automation-testing-tools.jpg" alt="Top Automation Testing Tools" width="800" />
 </p>
 
 <p align="left">
