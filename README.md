@@ -16,32 +16,20 @@
 
 ---
 
+---
+
 ### 🛠 Languages & Tools
 <p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  </a>
-  <a href="https://playwright.dev/" target="_blank">
-    <img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40" alt="Playwright"/>
-  </a>
-  <a href="https://www.selenium.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium"/>
-  </a>
-  <a href="https://pytest.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="40" height="40" alt="Pytest"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" style="margin-right: 10px;"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" style="margin-right: 10px;"/></a>
+  <a href="https://playwright.dev/" target="_blank"><img src="https://playwright.dev/img/playwright-logo.svg" width="45" height="45" alt="Playwright" style="margin-right: 10px;"/></a>
+  <a href="https://www.selenium.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="45" height="45" alt="Selenium" style="margin-right: 10px;"/></a>
+  <a href="https://pytest.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="45" height="45" alt="Pytest" style="margin-right: 10px;"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL" style="margin-right: 10px;"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git" style="margin-right: 10px;"/></a>
 </p>
 
----
+------
 
 ### 📊 GitHub Stats
 <p align="left">
