@@ -1,17 +1,8 @@
-Here is your updated Markdown code with the **HITS** counter successfully integrated.
-
-I placed it directly below your existing `komarev` counter inside the centered paragraph tag so that both badges stay perfectly aligned and neat on your profile page.
-
-### Copy and paste this complete block into your `README.md`:
-
-```markdown
 <h1 align="center">Hi 👋, I'm Kunal Joshi</h1>
 <h3 align="center">SDET | QA Automation Engineer | FinTech Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kunaljoshi12&label=Profile%20views&color=0e75b6&style=flat" alt="kunaljoshi12" />
-  <br><br>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKunaljoshi12&count_bg=%2379C60F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
 ---
@@ -49,5 +40,3 @@ I placed it directly below your existing `komarev` counter inside the centered p
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
-
-```
